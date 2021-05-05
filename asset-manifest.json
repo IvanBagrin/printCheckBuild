@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c38b68ce.chunk.css",
+    "main.js": "/static/js/main.a483072d.chunk.js",
+    "main.js.map": "/static/js/main.a483072d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.900dd88b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.900dd88b.js.map",
+    "static/css/2.150d169a.chunk.css": "/static/css/2.150d169a.chunk.css",
+    "static/js/2.6f3971bc.chunk.js": "/static/js/2.6f3971bc.chunk.js",
+    "static/js/2.6f3971bc.chunk.js.map": "/static/js/2.6f3971bc.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.c38b68ce.chunk.css.map": "/static/css/main.c38b68ce.chunk.css.map",
+    "static/js/2.6f3971bc.chunk.js.LICENSE.txt": "/static/js/2.6f3971bc.chunk.js.LICENSE.txt",
+    "static/js/main.a483072d.chunk.js.LICENSE.txt": "/static/js/main.a483072d.chunk.js.LICENSE.txt",
+    "static/media/ChecksView.css": "/static/media/SHTRIH-FR_elves_fr-f_7_Kegel_0.903605a7.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.900dd88b.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.6f3971bc.chunk.js",
+    "static/css/main.c38b68ce.chunk.css",
+    "static/js/main.a483072d.chunk.js"
+  ]
+}
